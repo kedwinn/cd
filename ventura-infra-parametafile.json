@@ -5,35 +5,35 @@
     },
     {
         "ParameterKey": "VenturaProdNATalbSN1azPara",
-        "ParameterValue": "us-east-1a"
+        "ParameterValue": "eu-west-1a"
     },
     {
         "ParameterKey": "VenturaProdNATalbSN2azPara",
-        "ParameterValue": "us-east-1b"
+        "ParameterValue": "eu-west-1b"
     },
     {
         "ParameterKey": "VenturaProdWebSN1azPara",
-        "ParameterValue": "us-east-1a"
+        "ParameterValue": "eu-west-1a"
     },
     {
         "ParameterKey": "VenturaProdWebSN2azPara",
-        "ParameterValue": "us-east-1b"
+        "ParameterValue": "eu-west-1b"
     },
     {
         "ParameterKey": "VenturaProdAppSN1azPara",
-        "ParameterValue": "us-east-1a"
+        "ParameterValue": "eu-west-1a"
     },
     {
         "ParameterKey": "VenturaProdAppSN2azPara",
-        "ParameterValue": "us-east-1b"
+        "ParameterValue": "eu-west-1b"
     },
     {
         "ParameterKey": "VenturaProdDBSN1azPara",
-        "ParameterValue": "us-east-1a"
+        "ParameterValue": "eu-west-1a"
     },
     {
         "ParameterKey": "VenturaProdDBSN21azPara",
-        "ParameterValue": "us-east-1b"
+        "ParameterValue": "eu-west-1b"
     },
     {
         "ParameterKey": "VenturaProdNATalbSN1CidrBlockPara",
@@ -69,7 +69,7 @@
     },
     {
         "ParameterKey": "VenturaProdWebServer1azPara",
-        "ParameterValue": "us-east-1a"
+        "ParameterValue": "eu-west-1a"
     },
     {
         "ParameterKey": "VenturaProdWebServer1ImageIdPara",
@@ -85,7 +85,7 @@
     },
     {
         "ParameterKey": "VenturaProdWebServer2azPara",
-        "ParameterValue": "us-east-1b"
+        "ParameterValue": "eu-west-1b"
     },
     {
         "ParameterKey": "VenturaProdWebServer2ImageIdPara",
@@ -101,7 +101,7 @@
     },
     {
         "ParameterKey": "VenturaProdAppServer1azPara",
-        "ParameterValue": "us-east-1a"
+        "ParameterValue": "eu-west-1a"
     },
     {
         "ParameterKey": "VenturaProdAppServer1ImageIdPara",
@@ -117,7 +117,7 @@
     },
     {
         "ParameterKey": "VenturaProdAppServer2azPara",
-        "ParameterValue": "us-east-1b"
+        "ParameterValue": "eu-west-1b"
     },
     {
         "ParameterKey": "VenturaProdAppServer2ImageIdPara",
